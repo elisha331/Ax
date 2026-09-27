@@ -205,4 +205,4 @@ AX is offered as a full free version with all features and updates included. Enj
 Don't miss out on the opportunity to enhance your file management experience. Download AX for free today and start splitting your files effortlessly!
 
 ---
-**Last updated:** 2026-09-27 15:26:18 UTC
+**Last updated:** 2026-09-27 19:23:46 UTC
